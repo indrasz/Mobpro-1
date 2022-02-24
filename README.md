@@ -1,2 +1,2 @@
 # Mobpro-1
-Mobile Programming Submission (D3RPLA)
+Mobile Programming Submission Android Native (D3RPLA)
